@@ -1,0 +1,46 @@
+.title{
+    text-align: center;
+}
+.each-slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 350px;
+  }
+  
+  .each-slide span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
+  .wdt{    
+    width: 90% !important;    
+}    
+.img    
+{    
+    height: 300px !important;    
+    width: 1134px;    
+}    
+    
+.imgdetails    
+{    
+    height: 400px !important;    
+    width: 600px !important;    
+    
+}    
+    
+.imgpad    
+{    
+    padding-bottom: 0px !important;    
+    padding-top: 0px !important;    
+  padding-left: 50px !important;    
+  padding-right: 50px !important;    
+    
+}    
+  .cls    
+  {    
+    padding-right: 300px !important;    
+    background-color: blue    
+  }    
